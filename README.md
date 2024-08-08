@@ -3,7 +3,7 @@
 <p align="center">
 <img src="assets/EXAONE_Symbol+BI_3d.png", width="400", style="margin: 40 auto;">
 <br>
-<p align="center"> 🤗 <a href="https://huggingface.co/LGAI-EXAONE">HuggingFace</a> &nbsp | &nbsp 📝 <a href="https://www.lgresearch.ai/blog/view?seq=460"> Blog</a> &nbsp | &nbsp 📑 <a href="https://www.lgresearch.ai/data/upload/tech_report/en/EXAONE_3.0_Technical_Report.pdf"> Technical Report </a>
+<p align="center"> 🤗 <a href="https://huggingface.co/LGAI-EXAONE">HuggingFace</a> &nbsp | &nbsp 📝 <a href="https://www.lgresearch.ai/blog/view?seq=460"> Blog</a> &nbsp | &nbsp 📑 <a href="https://arxiv.org/abs/2408.03541"> Technical Report </a>
 <br>
 
 <br>
@@ -18,13 +18,13 @@ It demonstrates highly competitive benchmark performance against other state-of-
 
 ## News
 
-- 2024.08.07: We released the EXAONE 3.0 7.8B instruction-tuned model. Check out the 📑 [Technical Report](https://www.lgresearch.ai/data/upload/tech_report/en/EXAONE_3.0_Technical_Report.pdf)!
+- 2024.08.07: We released the EXAONE 3.0 7.8B instruction-tuned model. Check out the 📑 [Technical Report](https://arxiv.org/abs/2408.03541)!
 
 <br>
 
 ## Performance
 
-Some experimental results are shown below. The full evaluation results can be found in the [Technical Report](https://www.lgresearch.ai/data/upload/tech_report/en/EXAONE_3.0_Technical_Report.pdf).
+Some experimental results are shown below. The full evaluation results can be found in the [Technical Report](https://arxiv.org/abs/2408.03541).
 
 | Language | Benchmark | EXAONE 3.0 <br>7.8B Inst. | Llama 3.1 <br>8B Inst. | Gemma 2 <br>9B Inst. | QWEN 2 <br>7B Inst. | Phi 3 <br>7B Inst. | Mistral 7B <br>Inst. |
 | :-----: | :----- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -105,6 +105,19 @@ outputs violating LG AI’s ethical principles when using EXAONE language model.
 ## License
 
 The model is licensed under [EXAONE AI Model License Agreement 1.0 - NC](./LICENSE)
+ 
+<br>
+ 
+## Citation
+ 
+```
+@article{exaone-3.0-7.8B-instruct,
+  title={EXAONE 3.0 7.8B Instruction Tuned Language Model},
+  author={LG AI Research},
+  journal={arXiv preprint arXiv:2408.03541},
+  year={2024}
+}
+```
 
 <br>
 
