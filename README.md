@@ -18,6 +18,7 @@ It demonstrates highly competitive benchmark performance against other state-of-
 
 ## News
 
+- 2024.08.08: :wave: :wave: We have revised our [license](./LICENSE) for revitalizing the research ecosystem. :wave: :wave:
 - 2024.08.07: We released the EXAONE 3.0 7.8B instruction-tuned model. Check out the 📑 [Technical Report](https://arxiv.org/abs/2408.03541)!
 
 <br>
@@ -104,7 +105,7 @@ outputs violating LG AI’s ethical principles when using EXAONE language model.
 
 ## License
 
-The model is licensed under [EXAONE AI Model License Agreement 1.0 - NC](./LICENSE)
+The model is licensed under [EXAONE AI Model License Agreement 1.1 - NC](./LICENSE)
  
 <br>
  
